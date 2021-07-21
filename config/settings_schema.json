@@ -239,5 +239,16 @@
         "info": "t:settings_schema.favicon.settings.favicon.info"
       }
     ]
+  },
+  {
+    "name": "Navigation Bar Color Setting",
+    "settings": [
+      {
+        "type": "color",
+        "id": "navbar_color",
+        "label": "Nav Bar Color Picker",
+        "default": "#000"
+      }
+    ]
   }
 ]
